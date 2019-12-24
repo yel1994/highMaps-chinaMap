@@ -3,3 +3,8 @@
 
 效果图如下：
 
+![image](https://github.com/yuenlai/highMaps-chinaMap/blob/master/images/1577149949(1).jpg)
+
+![image](https://github.com/yuenlai/highMaps-chinaMap/blob/master/images/1577149996(1).jpg)
+
+![image](https://github.com/yuenlai/highMaps-chinaMap/blob/master/images/1577150112(1).jpg)
